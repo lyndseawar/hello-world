@@ -1,2 +1,2 @@
 # hello-world
-Just another repository, my first infact. 
+Just another repository, my first in fact. 
